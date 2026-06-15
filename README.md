@@ -95,7 +95,7 @@ haruurot-ride-booking-system/
 
 ---
 
-## eatures
+## Features
 
 - Dual-role system: Passengers and Riders
 - Ride booking with vehicle selection and fare estimation
