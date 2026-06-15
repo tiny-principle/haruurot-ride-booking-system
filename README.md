@@ -1,4 +1,4 @@
-# 🚀 HARUUROT Ride Booking System
+# HARUUROT Ride Booking System
 
 > **Ride Fast. Ride Safe. Ride Haruurot!**
 
@@ -6,7 +6,7 @@ A Python-based desktop ride booking system developed as a final project for **CM
 
 ---
 
-## 👥 Developers — BSCPE 1-3
+## Developers — BSCPE 1-3
 
 | Name | Role |
 |------|------|
@@ -24,7 +24,7 @@ A Python-based desktop ride booking system developed as a final project for **CM
 
 ---
 
-## 📋 About the Project
+## About the Project
 
 HARUUROT is a desktop application that simulates a ride-hailing platform, allowing users to book rides and drivers to accept and complete trips. Built using Python and Tkinter.
 
@@ -36,7 +36,7 @@ HARUUROT is a desktop application that simulates a ride-hailing platform, allowi
 
 ---
 
-## 🚗 Vehicle Fare Rates
+## Vehicle Fare Rates
 
 | Vehicle | Base Fare | Per KM |
 |---------|-----------|--------|
@@ -46,7 +46,7 @@ HARUUROT is a desktop application that simulates a ride-hailing platform, allowi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3
 - **GUI:** Tkinter
@@ -55,7 +55,7 @@ HARUUROT is a desktop application that simulates a ride-hailing platform, allowi
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Make sure Python 3 is installed
 2. Clone or download this repository
@@ -66,7 +66,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 haruurot-ride-booking-system/
 
 ├── main.py           # App entry point & screen controller
@@ -95,7 +95,7 @@ haruurot-ride-booking-system/
 
 ---
 
-## ✨ Features
+## eatures
 
 - Dual-role system: Passengers and Riders
 - Ride booking with vehicle selection and fare estimation
