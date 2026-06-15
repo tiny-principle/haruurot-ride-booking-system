@@ -1,0 +1,47 @@
+[
+  {
+    "username": "arshe1",
+    "password": "45959680987f7a0398a98e1a145bd289204c1ebdc44b442feca8472b9a71e917",
+    "full_name": "safsfafa",
+    "vehicle_type": "Car",
+    "vehicle_capacity": "4",
+    "available": true,
+    "email": "arshe1@gmail.com"
+  },
+  {
+    "username": "arshe190",
+    "password": "45959680987f7a0398a98e1a145bd289204c1ebdc44b442feca8472b9a71e917",
+    "full_name": "asd",
+    "vehicle_type": "Bike",
+    "vehicle_capacity": "1",
+    "available": true,
+    "email": "arshe190@gmail.com"
+  },
+  {
+    "username": "arshe19",
+    "password": "45959680987f7a0398a98e1a145bd289204c1ebdc44b442feca8472b9a71e917",
+    "full_name": "asfasf",
+    "vehicle_type": "Motorcycle",
+    "vehicle_capacity": "1",
+    "available": true,
+    "email": "arshe19@gmail.com"
+  },
+  {
+    "username": "a",
+    "password": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+    "full_name": "a",
+    "vehicle_type": "Car",
+    "vehicle_capacity": "4",
+    "available": true,
+    "email": "a@gmail.com"
+  },
+  {
+    "username": "aaa",
+    "password": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+    "full_name": "a",
+    "vehicle_type": "Motorcycle",
+    "vehicle_capacity": "1",
+    "available": true,
+    "email": "aaa@gmail.com"
+  }
+]

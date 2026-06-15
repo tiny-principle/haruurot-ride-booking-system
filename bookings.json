@@ -1,0 +1,90 @@
+[
+  {
+    "booking_id": "c7e82d60",
+    "customer": "arshe",
+    "vehicle_type": "Car",
+    "start": "dasd",
+    "end": "asdasd",
+    "distance": 10.0,
+    "total_cost": 30.0,
+    "status": "Assigned",
+    "assigned_rider": "arshe1"
+  },
+  {
+    "booking_id": "3533775a",
+    "customer": "arshe",
+    "vehicle_type": "Car",
+    "start": "asda",
+    "end": "sdadsa",
+    "distance": 1234.0,
+    "total_cost": 3090.0,
+    "status": "Completed",
+    "assigned_rider": "a"
+  },
+  {
+    "booking_id": "dad5e742",
+    "customer": "arshe",
+    "vehicle_type": "Car",
+    "start": "asdf",
+    "end": "eafd",
+    "distance": 123.0,
+    "total_cost": 312.5,
+    "status": "Completed",
+    "assigned_rider": "a"
+  },
+  {
+    "booking_id": "3d8fef5c",
+    "customer": "arshe",
+    "vehicle_type": "Car",
+    "start": "sd",
+    "end": "sada",
+    "distance": 12.0,
+    "total_cost": 35.0,
+    "status": "Completed",
+    "assigned_rider": "a"
+  },
+  {
+    "booking_id": "a1d9944e",
+    "customer": "arshe",
+    "vehicle_type": "Van",
+    "start": "asdsa",
+    "end": "saf",
+    "distance": 12.0,
+    "total_cost": 56.0,
+    "status": "Cancelled",
+    "assigned_rider": "None"
+  },
+  {
+    "booking_id": "89dbb82c",
+    "customer": "arshe",
+    "vehicle_type": "Motorcycle",
+    "start": "arsasfsa",
+    "end": "saf",
+    "distance": 123.0,
+    "total_cost": 187.5,
+    "status": "Assigned",
+    "assigned_rider": "aaa"
+  },
+  {
+    "booking_id": "2a366e1e",
+    "customer": "arshe",
+    "vehicle_type": "Motorcycle",
+    "start": "a",
+    "end": "a",
+    "distance": 2.5,
+    "total_cost": 6.75,
+    "status": "Pending",
+    "assigned_rider": "None"
+  },
+  {
+    "booking_id": "a3d024d7",
+    "customer": "arshe",
+    "vehicle_type": "Car",
+    "start": "aa",
+    "end": "asds",
+    "distance": 10.0,
+    "total_cost": 30.0,
+    "status": "Pending",
+    "assigned_rider": "None"
+  }
+]
