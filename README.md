@@ -70,27 +70,16 @@ python main.py
 haruurot-ride-booking-system/
 
 ├── main.py           # App entry point & screen controller
-
 ├── auth.py           # Login & registration logic
-
 ├── booking.py        # Booking business logic
-
 ├── vehicle.py        # Vehicle classes & fare calculation
-
 ├── storage.py        # JSON file handling & password hashing
-
 ├── constants.py      # Colors, fonts, dimensions
-
 ├── widgets.py        # Reusable UI components
-
 ├── screens_auth.py   # Login/register screens
-
 ├── screens_home.py   # User & rider home screens
-
 ├── users.json        # User data store
-
 ├── riders.json       # Rider data store
-
 └── bookings.json     # Booking records
 
 ---
